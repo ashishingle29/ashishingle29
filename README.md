@@ -28,9 +28,9 @@ Full Stack Developer with experience in HTML, CSS, JavaScript, Node.js, MongoDB 
 - DSA
 
 ## Projects
-- [URL Shortener](https://github.com/yourusername/url-shortener)
-- [Open Intern](https://github.com/yourusername/open-intern)
-- [Shopping Site](https://github.com/yourusername/shopping-site)
+- [URL Shortener](https://github.com/ashishingle29/url-shortener)
+- [Open Intern](https://github.com/ashishingle29/open-intern)
+- [Shopping Site](https://github.com/ashishingle29/shopping-site)
 
 ## Education
 - Bachelor's Degree in Computer Science
@@ -41,6 +41,6 @@ Full Stack Developer with experience in HTML, CSS, JavaScript, Node.js, MongoDB 
 - [MongoDB for Developers](https://university.mongodb.com/courses/M001/about)
 
 ## Badges
-- ![GitHub top language](https://img.shields.io/github/languages/top/yourusername)
-- ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername)
-- ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+- ![GitHub top language](https://img.shields.io/github/languages/top/ashishingle29)
+- ![GitHub last commit](https://img.shields.io/github/last-commit/ashishingle29)
+- ![GitHub followers](https://img.shields.io/github/followers/ashishingle29?style=social)
