@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ashish Ingle</h1>
-<h3 align="center">My name is Ashish Ingle and I am from Ujjain. I graduated from SVVV Indore and am currently a TA at FunctionUp Platform. My technical skills include HTML, CSS, JavaScript, Node.js, MongoDB, and React. I am dedicated to building my career in the IT field and have already created a number of projects including URL shorteners, Open Intern Sites, Shopping Sites, Blog Management, and Book Management. I am also actively working on other projects that I plan to add in the near future. My main interest is to become a full stack developer and I am constantly working towards this goal by learning and experimenting with different technologies.an to add in the near future.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=70&pause=1000&color=0B1358&center=true&width=900&height=140&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C+It's++Ashish+Ingle...!)](https://git.io/typing-svg)
+
+<h2>A dedicated Indian Backend programmer.</h2>
+<hr style=" height: 3px;
+  border: none;
+  border-radius: 6px;
+  background: linear-gradient(
+    90deg,
+    rgba(13, 8, 96, 1) 0%,
+    rgba(9, 9, 121, 1) 11%,
+    rgba(6, 84, 170, 1) 31%,
+    rgba(0, 255, 113, 1) 100%"/>
+<p align="center">About me: hello ,i am from Ujjain. I graduated from SVVV Indore and am currently a TA at FunctionUp Platform. My technical skills include HTML, CSS, JavaScript, Node.js, MongoDB, and React. I am dedicated to building my career in the IT field and have already created a number of projects including URL shorteners, Open Intern Sites, Shopping Sites, Blog Management, and Book Management. I am also actively working on other projects that I plan to add in the near future. My main interest is to become a full stack developer and I am constantly working towards this goal by learning and experimenting with different technologies.an to add in the near future.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishingle29&label=Profile%20views&color=0e75b6&style=flat" alt="ashishingle29" /> </p>
 
