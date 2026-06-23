@@ -76,10 +76,10 @@ My focus is on backend architecture, performance optimization, and delivering fe
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Portfoliz**](https://ashishingle.com) | AI-powered SaaS for creating resumes and portfolio sites with customizable templates | AI, SaaS |
+| [**Portfoliz**](https://portfoliz.com) | AI-powered SaaS for creating resumes and portfolio sites with customizable templates | AI, SaaS |
 | **Retail POS & Inventory Management** | Multi-store billing platform with UPI QR payments, RBAC, and automated WhatsApp invoicing | Node.js, MongoDB |
-| [**AI Live Chat**](https://ashishingle.com) | Real-time chat with Google auth and public/private messaging | React.js, Firebase, Firestore |
-| [**Human Detection Analytics**](https://ashishingle.com) | Analytics dashboard for gesture, age, and gender-based insights | React.js, Redux, Chart.js |
+| [**AI Live Chat**](https://livechatbyai.netlify.app/) | Real-time chat with Google auth and public/private messaging | React.js, Firebase, Firestore |
+| [**Human Detection Analytics**](https://humandetection.netlify.app/) | Analytics dashboard for gesture, age, and gender-based insights | React.js, Redux, Chart.js |
 | **Pin Point Note** | Chrome extension for quick note-taking and productivity | Chrome Extension |
 
 ---
