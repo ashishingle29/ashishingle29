@@ -10,15 +10,13 @@
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 👨‍💻 All of my projects are available at [https://ashishingle.netlify.app](https://ashishingle.netlify.app/)
-
-- 📝 I regularly write articles on [https://prokeeda.com](https://prokeeda.com)
+- 👨‍💻 All of my projects are available at [https://ashishingle.com](https://ashishingle.com/)
 
 - 💬 Ask me about **JavaScript, Node.js, MongoDB and React**
 
 - 📫 How to reach me **ashishingle589@gmail.com**
 
-- 📄 Know about my experiences [https://ashishingle.netlify.app](https://ashishingle.netlify.app/)
+- 📄 Know about my experiences [https://ashishingle.com](https://ashishingle.com/)
 
 - ⚡ Fun fact **I enjoy learning new programming languages and experimenting with new technologies, as well as exploring new places and trying adventure sports like Chess.**
 
