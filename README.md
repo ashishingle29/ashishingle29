@@ -1,45 +1,108 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=70&pause=1000&color=603FD0&center=true&width=900&height=140&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C+It's++Ashish+Ingle...!)](https://git.io/typing-svg)
-<img src="https://komarev.com/ghpvc/?username=ashishingle29&label=Profile%20views&color=0e75b6&style=flat" alt="ashishingle29" />
-<h2>A Dedicated Indian Backend Programmer.</h2>
+<h1 align="center">Hey, I'm Ashish Ingle 👋</h1>
 
-<p align="center"><strong>About Me:</strong> hello ,i am from Ujjain. I graduated from SVVV Indore and am currently a TA at FunctionUp Platform. My technical skills include HTML, CSS, JavaScript, Node.js, MongoDB, and React. I am dedicated to building my career in the IT field and have already created a number of projects including URL shorteners, Open Intern Sites, Shopping Sites, Blog Management, and Book Management. I am also actively working on other projects that I plan to add in the near future. My main interest is to become a full stack developer and I am constantly working towards this goal by learning and experimenting with different technologies.an to add in the near future.</p>
-
-- 🔭 I’m currently working on **Build my career in IT Field**
-
-- 🌱 I’m currently learning **React😍 and DSA🔥**
-
-- 👯 I’m looking to collaborate on **New Projects**
-
-- 👨‍💻 All of my projects are available at [https://ashishingle.com](https://ashishingle.com/)
-
-- 💬 Ask me about **JavaScript, Node.js, MongoDB and React**
-
-- 📫 How to reach me **ashishingle589@gmail.com**
-
-- 📄 Know about my experiences [https://ashishingle.com](https://ashishingle.com/)
-
-- ⚡ Fun fact **I enjoy learning new programming languages and experimenting with new technologies, as well as exploring new places and trying adventure sports like Chess.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashishingle29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishingle29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashishingle29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishingle29" height="30" width="40" /></a>
-<a href="https://fb.com/ashish.ingle.786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashish.ingle.786" height="30" width="40" /></a>
-<a href="https://instagram.com/ingle_aashu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ingle_aashu/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/whatsappsilverstatus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whatsappsilverstatus" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashishingle29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishingle29" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashishingle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishingle" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashishingle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashishingle" height="30" width="40" /></a>
-<a href="https://discord.gg/9zJ7CJJ7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9zJ7CJJ7" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software Engineer · Backend Systems · Full Stack Development</strong><br/>
+  Building scalable, production-grade systems that actually ship.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishingle29&show_icons=true&locale=en&layout=compact" alt="ashishingle29" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/ashishingle29">
+    <img src="https://img.shields.io/badge/LinkedIn-ashishingle29-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ashishingle.com">
+    <img src="https://img.shields.io/badge/Portfolio-ashishingle.com-603FD0?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ashishingle589@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashishingle589@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/ashishingle">
+    <img src="https://img.shields.io/badge/LeetCode-ashishingle-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishingle29&show_icons=true&locale=en" alt="ashishingle29" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishingle29&" alt="ashishingle29" /></p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ashishingle29"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashishingle29" /></a></p>
+## About Me
+
+Software Engineer with **3+ years of experience** building scalable backend systems and web applications. Currently at **Jaharvir Fingrowth Private Limited**, where I develop and scale [Sbzee](https://sbzee.com) — a live grocery delivery platform handling **500+ daily orders**.
+
+My focus is on backend architecture, performance optimization, and delivering features that hold up in production. I've integrated payment gateways, logistics APIs, and built CI/CD pipelines — and I like systems that are fast, reliable, and maintainable.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
+
+**Frontend**
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**DevOps & Security**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## 💼 Experience
+
+**Software Engineer — Jaharvir Fingrowth Private Limited** *(Oct 2025 – Present)*
+- Developing and scaling **Sbzee**, a live grocery delivery platform (500+ daily orders)
+- Built scalable backend services with Node.js, NestJS, MongoDB, Redis, and AWS
+- Improved API response times and reduced infrastructure costs via Redis caching
+- Led feature delivery and mentored developers across the engineering team
+- 🏆 Received **Company-Wide Appreciation Award** (Feb 2026) and recognized as **Top Performer** (Jan 2026)
+
+**Full Stack Developer — Dots N Key Technology** *(Jun 2023 – Sep 2025)*
+- Built and deployed production-ready apps using React.js, Next.js, Node.js, MongoDB, and MySQL
+- Integrated **Stripe**, **QuickBooks**, **Unicommerce**, and **Onfleet** APIs for payment, logistics, and workflow automation
+- Designed scalable backend services and optimized deployments using Docker, GitHub Actions, and AWS
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Portfoliz**](https://ashishingle.com) | AI-powered SaaS for creating resumes and portfolio sites with customizable templates | AI, SaaS |
+| **Retail POS & Inventory Management** | Multi-store billing platform with UPI QR payments, RBAC, and automated WhatsApp invoicing | Node.js, MongoDB |
+| [**AI Live Chat**](https://ashishingle.com) | Real-time chat with Google auth and public/private messaging | React.js, Firebase, Firestore |
+| [**Human Detection Analytics**](https://ashishingle.com) | Analytics dashboard for gesture, age, and gender-based insights | React.js, Redux, Chart.js |
+| **Pin Point Note** | Chrome extension for quick note-taking and productivity | Chrome Extension |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishingle29&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishingle29&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishingle29&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+**B.Tech in Mechanical Engineering** — Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore *(2018–2022)* · CGPA: 7.48
+
+---
+
+<p align="center">
+  <i>Open to interesting backend engineering roles and collaboration on meaningful projects.</i><br/>
+  <a href="https://ashishingle.com">ashishingle.com</a> · <a href="mailto:ashishingle589@gmail.com">ashishingle589@gmail.com</a>
+</p>
